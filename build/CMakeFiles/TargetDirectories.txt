@@ -1,0 +1,3 @@
+C:/Users/Asus/Downloads/FourBitAdder/build/CMakeFiles/FourBitAdder.dir
+C:/Users/Asus/Downloads/FourBitAdder/build/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Downloads/FourBitAdder/build/CMakeFiles/rebuild_cache.dir

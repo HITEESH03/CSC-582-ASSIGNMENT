@@ -1,0 +1,3 @@
+C:\Python310\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\FourBitAdder.dir/objects.a
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe qc CMakeFiles\FourBitAdder.dir/objects.a @CMakeFiles\FourBitAdder.dir\objects1.rsp
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\FourBitAdder.dir/objects.a -Wl,--no-whole-archive -o FourBitAdder.exe -Wl,--out-implib,libFourBitAdder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FourBitAdder.dir\linkLibs.rsp
