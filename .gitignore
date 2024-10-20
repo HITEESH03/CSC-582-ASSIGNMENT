@@ -4,3 +4,5 @@
 *.bin
 CMakeCache.txt
 CMakeFiles/
+*.orig
+*.bak
